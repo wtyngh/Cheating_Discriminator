@@ -1,7 +1,8 @@
-# BAC
- BAC (Berkeley Anti-Cheat): detecting cheating in Counter-Strike: Global Offensive
+# Abstract
 
+In this project, we implemented a series of machine learning techniques to determine whether a player is cheating in the CSGO game using a CSGO cheating dataset on Kaggle.
 
+# User guide
 
 First, download the dataset from: https://www.kaggle.com/datasets/emstatsl/csgo-cheating-dataset. Upzip all files directly under /BAC.
 
