@@ -1,2 +1,8 @@
 /legit
 /cheaters
+cheaters/cheaters.npy
+legit/legit.npy
+train_test_split.npz
+*.zip
+*.joblib
+*.h5
