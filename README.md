@@ -4,7 +4,8 @@ In this project, we implemented a series of machine learning techniques to deter
 
 # User guide
 
-First, download the dataset from: https://www.kaggle.com/datasets/emstatsl/csgo-cheating-dataset. Upzip all files directly under /BAC.
+First, download the dataset from: https://www.kaggle.com/datasets/emstatsl/csgo-cheating-dataset. Upzip all files directly under /Cheating_Discriminator
+.
 
 Second, make sure the sklearn and tensorflow are installed: `pip install -U scikit-learn`; `pip install tensorflow`
 
