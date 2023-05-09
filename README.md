@@ -1,4 +1,4 @@
-# Abstract
+# BAC (Berkeley Anti-Cheat): detecting cheating in Counter-Strike: Global Offensive
 
 In this project, we implemented a series of machine learning techniques to determine whether a player is cheating in the CSGO game using a CSGO cheating dataset on Kaggle.
 
